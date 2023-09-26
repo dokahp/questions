@@ -1,15 +1,3 @@
-# CoreJS Interview #1
-- Passing the Corejs Interview #1 is mandatory for obtaining the RS School certificate.
-- The students are not allowed to be interviewed by their current mentors.
-- The students without a mentor can also register for an interview.
-- Students should contact the interviewer themselves. Contact details will be available on the RS APP. **Note:** Students should consider that the mentor can be busy (vacation, business trip, workload, etc.), so please get in touch with him as soon as possible.
-- At the mentor's request, the interview can take place online or face-to-face.
-- Preferable interview duration is 45-90 minutes.
-- During the interview mentor:
-  - asks questions;
-  - gets answers;
-  - adds/corrects/explains/gives the right answer, if necessary.
-- After the interview mentor have to fill in the feedback form (RS APP > Interviews)  
 
 ## Question examples:
 
